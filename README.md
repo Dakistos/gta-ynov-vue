@@ -1,6 +1,6 @@
 # gta-ynov-vue
 
-> A Vue.js project
+> 01/11/18 : Initialisation du projet
 
 ## Build Setup
 
