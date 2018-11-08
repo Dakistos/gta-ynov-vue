@@ -2,7 +2,9 @@
 
 Demo : https://dupont-gta-ynov-vue.herokuapp.com/#/
 
-> 01/11/18 : Initialisation du projet
+> 08/11/18 :
+- J'ai pris connaissances du fonctionnement des composants et des routes avec VueJS
+- Ajout de la connexion pour un salarié
 
 ## Build Setup
 
