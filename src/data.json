@@ -1,0 +1,16 @@
+{
+        "type": "salarié",
+        "username": "mathias",
+        "password": "okok",
+        "naissance": "03/01/1997",
+        "adresse": "11 rue jacques tati",
+        "code_postal": "78380",
+        "ville": "Bois d'Arcy",
+        "mail": "mathias@mail.com",
+        "telephone": "0680267789",
+        "debut_contrat": "10/12/2016",
+        "fin_contrat": "13/12/2018"
+
+}
+
+
